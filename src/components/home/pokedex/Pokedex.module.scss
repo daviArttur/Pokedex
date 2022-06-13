@@ -1,0 +1,14 @@
+.container {
+  align-items: center;
+  background-image: url('../../../assets/gymjpg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 20px solid #000;
+  display: flex;
+  flex-flow: row wrap;
+  gap: .5rem;
+  justify-content: center;
+  min-width: 256px;
+  padding: 1rem;
+  place-items: center;
+}
